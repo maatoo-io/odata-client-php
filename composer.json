@@ -1,9 +1,9 @@
 {
-    "name": "saintsystems/odata-client",
+    "name": "maatoo/odata-client",
     "version": "0.6.0",
     "description": "Saint Systems OData Client for PHP",
     "keywords": ["odata", "rest", "php"],
-    "homepage": "https://github.com/saintsystems/odata-client-php",
+    "homepage": "https://github.com/maatoo-io/odata-client-php",
     "license": "MIT",
     "type": "library",
     "authors": [
